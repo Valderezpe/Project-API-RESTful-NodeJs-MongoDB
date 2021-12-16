@@ -15,3 +15,4 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 # Projeto
 
 Finalidade de monstrar as ferramentas, utilizadas na criação API RESTfull
+Obs: antes de rodar project  instalar pasta node_module (npm install)
